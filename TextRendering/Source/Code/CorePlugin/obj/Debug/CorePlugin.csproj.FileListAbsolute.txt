@@ -1,0 +1,22 @@
+C:\Users\Fetze\Desktop\TextRendering\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.dll
+C:\Users\Fetze\Desktop\TextRendering\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.pdb
+C:\Users\Fetze\Desktop\TextRendering\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.xml
+C:\Users\Fetze\Desktop\TextRendering\Source\Code\CorePlugin\bin\Debug\Duality.dll
+C:\Users\Fetze\Desktop\TextRendering\Source\Code\CorePlugin\bin\Debug\OpenTK.dll
+C:\Users\Fetze\Desktop\TextRendering\Source\Code\CorePlugin\bin\Debug\FarseerOpenTK.dll
+C:\Users\Fetze\Desktop\TextRendering\Source\Code\CorePlugin\bin\Debug\Duality.xml
+C:\Users\Fetze\Desktop\TextRendering\Source\Code\CorePlugin\bin\Debug\OpenTK.xml
+C:\Users\Fetze\Desktop\TextRendering\Source\Code\CorePlugin\obj\Debug\CorePlugin.csprojResolveAssemblyReference.cache
+C:\Users\Fetze\Desktop\TextRendering\Source\Code\CorePlugin\obj\Debug\GamePlugin.core.dll
+C:\Users\Fetze\Desktop\TextRendering\Source\Code\CorePlugin\obj\Debug\GamePlugin.core.pdb
+C:\Users\Fetze\Desktop\TextRendering - Copy\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.dll
+C:\Users\Fetze\Desktop\TextRendering - Copy\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.pdb
+C:\Users\Fetze\Desktop\TextRendering - Copy\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.xml
+C:\Users\Fetze\Desktop\TextRendering - Copy\Source\Code\CorePlugin\bin\Debug\Duality.dll
+C:\Users\Fetze\Desktop\TextRendering - Copy\Source\Code\CorePlugin\bin\Debug\OpenTK.dll
+C:\Users\Fetze\Desktop\TextRendering - Copy\Source\Code\CorePlugin\bin\Debug\FarseerOpenTK.dll
+C:\Users\Fetze\Desktop\TextRendering - Copy\Source\Code\CorePlugin\bin\Debug\Duality.xml
+C:\Users\Fetze\Desktop\TextRendering - Copy\Source\Code\CorePlugin\bin\Debug\OpenTK.xml
+C:\Users\Fetze\Desktop\TextRendering - Copy\Source\Code\CorePlugin\obj\Debug\CorePlugin.csprojResolveAssemblyReference.cache
+C:\Users\Fetze\Desktop\TextRendering - Copy\Source\Code\CorePlugin\obj\Debug\GamePlugin.core.dll
+C:\Users\Fetze\Desktop\TextRendering - Copy\Source\Code\CorePlugin\obj\Debug\GamePlugin.core.pdb

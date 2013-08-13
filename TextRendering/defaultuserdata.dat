@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <object dataType="Class" type="Duality.DualityUserData">
+    <userName dataType="String">Unknown</userName>
+    <gfxWidth dataType="Int">800</gfxWidth>
+    <gfxHeight dataType="Int">600</gfxHeight>
+    <gfxMode dataType="Enum" type="Duality.ScreenMode" name="Window" value="0" />
+    <gfxAAQuality dataType="Enum" type="Duality.AAQuality" name="High" value="0" />
+    <sfxEffectVol dataType="Float">1</sfxEffectVol>
+    <sfxSpeechVol dataType="Float">1</sfxSpeechVol>
+    <sfxMusicVol dataType="Float">1</sfxMusicVol>
+    <sfxMasterVol dataType="Float">1</sfxMasterVol>
+    <systemCursorVisible dataType="Bool">true</systemCursorVisible>
+    <customData />
+  </object>
+</root>
